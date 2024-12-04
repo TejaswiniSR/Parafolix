@@ -1,0 +1,87 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.section-1{
+
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    text-align: center;
+
+    background-image:linear-gradient(
+     rgba(0,0,0,0.3),
+     rgba(0,0,0,0.3)
+
+    ), url("/Cool-Red-and-Blue-HD-Wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+.section-2{
+
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    text-align: center;
+
+    background-image:linear-gradient(
+     rgba(0,0,0,0.3),
+     rgba(0,0,0,0.3)
+
+    ), url("/david-o-andersen-KD0DYW6qBYQ-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+.section-3{
+
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    text-align: center;
+
+    background-image:linear-gradient(
+     rgba(0,0,0,0.3),
+     rgba(0,0,0,0.3)
+
+    ), url("/allen-rad-9G_oJBKwi1c-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+.section-4{
+
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    
+
+    background-image:linear-gradient(
+     rgba(0,0,0,0.3),
+     rgba(0,0,0,0.3)
+
+    ), url("/luigi-ritchie-GKvKoG1RfQg-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+}
+h1{
+    color: #dc3030;
+    font-size: 50px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px #fff;
+    font-weight: bold;
+
+}
+p{
+    color: aliceblue;
+    font-size: 20px;
+}
